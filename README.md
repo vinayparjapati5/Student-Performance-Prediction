@@ -8,10 +8,6 @@
 </div>
 
 
-
-<div style="text-align:center;padding-top:20px">
-    <img src="http://www.inpt.ac.ma/sites/default/files/logo.png" />
-</div>
  
 # Introduction
 
