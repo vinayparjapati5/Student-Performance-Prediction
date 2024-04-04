@@ -450,42 +450,32 @@ Factors leading students to failure :<br>
 - ****1)**** For **<span style='color:red'>positive impact</span>**, it seems that the factors helping students succeed: <br><br>
     
    - **Parents education** : This will help his children in their studies so that they will not struggle for a long time with their homeworks.
-   <img src='plots\project.cover\father.jpg' width='300cm' height='130cm' style='display: block;margin-left: auto;margin-right: auto;'>
      
    - **Guardian** : This instance takes three values as our convention: 0,1 and 2, 2 refers to 'other', we conclude than if the guardian is neither mother nor father than the student has a big chance to succeed, but this just the result of our classifer, it is difficult to judge that.
     
-   <img src='plots\project.cover\guardian.jpg' width='300cm' height='130cm' style='display: block;margin-left: auto;margin-right: auto;'>
     
    - **Wants to take higher education** : Students who are looking forward to take higher education seems to be motivated and having goals to achieve.
-   <img src='plots\project.cover\higher.jpg' width='300cm' height='130cm' style='display: block;margin-left: auto;margin-right: auto;'>
+
     
    - **Study time** : This is an import thing to keep in mind, students need to spend many hours studying, do not imagine a student succeeding in his exams and yet do not spend one hour at his desk, but it depends on many things such as subject, timetable ...
-   <img src='plots\project.cover\studytime.jpg' width='300cm' height='130cm' style='display: block;margin-left: auto;margin-right: auto;'>
+
     
-   - **Paretns job** : If the parennts have a good career, then of course he will fulfill the needs of their children in terms of paying additive classes, internet ...
-   <img src='plots\project.cover\fatherjob.jpg' width='300cm' height='180cm' style='display: block;margin-left: auto;margin-right: auto;'>
+   - **Parents job** : If the parents have a good career, then of course he will fulfill the needs of their children in terms of paying additive classes, internet etc
+
     
 <br><br>
 - ****2)**** For **<span style='color:red'>negative impact</span>**, it seems that the factors affecting students are: <br><br>
     
     - **Age** : It is difficult to judge that the age is a negative factor, we do not have a big dataset to generalize, but we will assume it's a negative factor for the two choosen portuguese schools, so students should go to high school early.
-    ![age](https://github.com/vinayparjapati5/Student-Performance-Prediction/assets/114856104/3f4674f4-5131-4232-b7fc-6ff85ccfef52)
 
     
     - **Health** : This can not be taken into consideration, we cannot say that students having good health fail in the exams, but we will assume again it's a negative factor for the two choosen portuguese schools as our classifier told us.
-    ![health](https://github.com/vinayparjapati5/Student-Performance-Prediction/assets/114856104/62f6a3f3-e458-4978-b26f-bde6923e02d3)
-
     
     - **Going out with friends** : going out with friends helps relieve stress, but sometimes if the students spend a lot of time outside the home this will definitely affect their studies.
-    ![goout](https://github.com/vinayparjapati5/Student-Performance-Prediction/assets/114856104/d7b1dcf3-8b69-4d2f-84f1-2460a4100f64)
 
     - **Absences** : Students who missed classes will find it difficult to take the exams, sometimes you find students read a one month course in just one day, imagine how those students prepare for exams. Now, we did not talk about the students having problems letting them do that, we will later on talk abou that.
-      ![absence](https://github.com/vinayparjapati5/Student-Performance-Prediction/assets/114856104/185f6d34-2c38-436c-9570-d464536a804e)
-
-    
+  
     - **Failures** : Having a lot of failures is an indication of a lack of good exam preparations.
-    
-    ![fail](https://github.com/vinayparjapati5/Student-Performance-Prediction/assets/114856104/b03e93bd-947c-4aab-b77f-e9e6a6c55d65)
 
 
     
