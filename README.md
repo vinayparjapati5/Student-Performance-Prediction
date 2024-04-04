@@ -15,17 +15,6 @@
 <div style="text-align:center;padding-top:20px">
     <img src="http://www.inpt.ac.ma/sites/default/files/logo.png" />
 </div>
-
-<h4>Project contributors :</h4>
-
- * [AL JADD Mohammed](https://github.com/mohammedAljadd) <br/>
- * [BOUJIDA Hafssa ](https://github.com/hafssaboujida)    <br/>
- * [EL NABAOUI Nouhaila](https://github.com/Elnabaouinouhaila) 
-
-<h4> Project advisor :</h4>
-
- * [Prof. Amina Radgui](https://www.linkedin.com/in/amina-radgui-88017424/) <br/>
-
  
 # Introduction
 
