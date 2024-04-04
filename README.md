@@ -9,9 +9,6 @@
 
 
 
-<a href="http://www.inpt.ac.ma/" target="_blank">INPT</a> Rabat, Morocco.
-
-
 <div style="text-align:center;padding-top:20px">
     <img src="http://www.inpt.ac.ma/sites/default/files/logo.png" />
 </div>
@@ -476,20 +473,24 @@ Factors leading students to failure :<br>
 - ****2)**** For **<span style='color:red'>negative impact</span>**, it seems that the factors affecting students are: <br><br>
     
     - **Age** : It is difficult to judge that the age is a negative factor, we do not have a big dataset to generalize, but we will assume it's a negative factor for the two choosen portuguese schools, so students should go to high school early.
-    <img src='plots\project.cover\age.jpg' width='340cm' height='200cm' style='display: block;margin-left: auto;margin-right: auto;'>
+    ![age](https://github.com/vinayparjapati5/Student-Performance-Prediction/assets/114856104/3f4674f4-5131-4232-b7fc-6ff85ccfef52)
+
     
     - **Health** : This can not be taken into consideration, we cannot say that students having good health fail in the exams, but we will assume again it's a negative factor for the two choosen portuguese schools as our classifier told us.
-    <img src='plots\project.cover\health.jpg' width='340cm' height='170cm' style='display: block;margin-left: auto;margin-right: auto;'>
+    ![health](https://github.com/vinayparjapati5/Student-Performance-Prediction/assets/114856104/62f6a3f3-e458-4978-b26f-bde6923e02d3)
+
     
     - **Going out with friends** : going out with friends helps relieve stress, but sometimes if the students spend a lot of time outside the home this will definitely affect their studies.
-    <img src='plots\project.cover\goout.jpg' width='340cm' height='190cm' style='display: block;margin-left: auto;margin-right: auto;'>
-    
+    ![goout](https://github.com/vinayparjapati5/Student-Performance-Prediction/assets/114856104/d7b1dcf3-8b69-4d2f-84f1-2460a4100f64)
+
     - **Absences** : Students who missed classes will find it difficult to take the exams, sometimes you find students read a one month course in just one day, imagine how those students prepare for exams. Now, we did not talk about the students having problems letting them do that, we will later on talk abou that.
-    <img src='plots\project.cover\absence.jpg' width='340cm' height='170cm' style='display: block;margin-left: auto;margin-right: auto;'>
+      ![absence](https://github.com/vinayparjapati5/Student-Performance-Prediction/assets/114856104/185f6d34-2c38-436c-9570-d464536a804e)
+
     
     - **Failures** : Having a lot of failures is an indication of a lack of good exam preparations.
     
-    <img src='plots\project.cover\fail.jpg' width='340cm' height='170cm' style='display: block;margin-left: auto;margin-right: auto;'>
+    ![fail](https://github.com/vinayparjapati5/Student-Performance-Prediction/assets/114856104/b03e93bd-947c-4aab-b77f-e9e6a6c55d65)
+
 
     
 <h6>Small conclusion on factors extraction:</h6>
