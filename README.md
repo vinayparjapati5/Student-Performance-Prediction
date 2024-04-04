@@ -503,9 +503,7 @@ In this project, we came up with the idea of creating a model that predicts the 
  Our main challenges were to define the best classification algorithm and identify the most influential factors for the academic status of students to provide them with a summary or valedictorian of the best conditions for students to achieve high academic status and avoid failures.
   For this project entitled “Prediction of student performance and difficulty” ”, we used several classification methods such as logistic regression, KNN and SVM and we evaluate this model using different metrics like f1 score, roc curve and the confusion matrix and finally we got a winner with SVM with a precision of 80%compared to other algorithm .
 Before taking up our main challenges, there were several steps to take:
--data processing
--data visualization
+-Data processing
+-Data visualization
 -Implementation of models
--comparison of 3 algorithms
-
-   <img src='https://www.google.com/search?q=thank+you+for+your+attention&rlz=1C1PNJJ_frMA933MA933&sxsrf=ALeKk010Chcx5keT8h1C9FshbyPlqYG-pA:1613081448392&tbm=isch&source=iu&ictx=1&fir=OmqVmuVhr7LkIM%252CuJ_UCrRpsn9rgM%252C_&vet=1&usg=AI4_-kTolaOlfYJ4saLHlukoaukZIX3MPw&sa=X&ved=2ahUKEwjCkObV7OLuAhWoUBUIHf3EBf8Q9QF6BAgMEAE#imgrc=OmqVmuVhr7LkIM' width='550cm'>
+-Comparison of 3 algorithms
