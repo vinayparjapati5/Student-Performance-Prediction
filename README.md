@@ -266,10 +266,6 @@ Now we will use Support Vector Machine algorithm and see how it will act on our 
 
 
 Here are some plots for the three kernels that we've talked about :
-
-
-    
-<img src='https://scikit-learn.org/stable/_images/sphx_glr_plot_iris_svc_0011.png' width='460cm'>
 <br><br>
 
 
